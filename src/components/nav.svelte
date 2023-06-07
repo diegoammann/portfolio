@@ -95,7 +95,7 @@ function introAnimations() {
 					<a href="mailto:musabhassan04@gmail.com" target="_blank" in:mobileTransitionSwitcher={{ delay: 350 }}>Email</a>
 				</li>
 				<li bind:this={githubElem}>
-					<a href="https://github.com/Musab-Hassan" target="_blank" in:mobileTransitionSwitcher={{ delay: 400 }}>Github</a>
+					<a href="https://github.com/diegoammann" target="_blank" in:mobileTransitionSwitcher={{ delay: 400 }}>Github</a>
 				</li>
 				{/key}
 			</ul>

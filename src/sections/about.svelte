@@ -100,7 +100,7 @@ function section2IntroAnimations() {
 				<span class="button"><a href="mailto:mediegoamann@gmail.com" target="_blank" class="clickable sublink link">Email Me</a></span>
 			</div>
 			<div bind:this={githubLink}>
-				<span class="button" bind:this={githubLink}><a href="https://github.com/Musab-Hassan" target="_blank" class="clickable sublink link">Github</a></span>
+				<span class="button" bind:this={githubLink}><a href="https://github.com/diegoammann" target="_blank" class="clickable sublink link">Github</a></span>
 			</div>
 		</div>
 	</div>
