@@ -1,0 +1,87 @@
+[
+  {
+    "id": "kyzen",
+    "title": "Project Kyzen",
+    "details": {
+      "description": "The Project Kyzen is a web3 based project for Impact Theory LLC.",
+      "summary": "Web3 Project"
+    },
+    "date": "May 2023",
+    "roles": ["Front-end Web Engineer"],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "link": "https://www.projectkyzen.io/"
+      }
+    ]
+  },
+  {
+    "id": "im",
+    "title": "Impact Theory",
+    "details": {
+      "description": "The company website for Impact Theory LLC.",
+      "summary": "Company Website"
+    },
+    "date": "Nov 2022",
+    "roles": ["Front-end Web Engineer"],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "link": "http://impacttheory.com/"
+      }
+    ]
+  },
+  {
+    "id": "ar",
+    "title": "Avatar Arena",
+    "details": {
+      "description": "Web3 based Avatar management system for a dealership",
+      "summary": "Web3 Project"
+    },
+    "date": "Oct 2022",
+    "roles": ["Front-end Web Engineer"],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "link": "https://burn.projectkyzen.io/"
+      }
+    ]
+  },
+  {
+    "id": "plr",
+    "title": "PLR.me",
+    "details": {
+      "description": "PLR.me is one of the plr websites that sells pre-created content of a health and wellness niche. This content is useful for any wellness or coaching-based business. It is easily personalized and branded.",
+      "summary": "Content Management Platform"
+    },
+    "date": "Nov 2020",
+    "roles": ["Front-End Web Developer"],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "link": "https://www.plr.me/"
+      }
+    ]
+  },
+  {
+    "id": "not",
+    "title": "Notavis",
+    "details": {
+      "description": "NOTAVIS provides numerous embedded vision solutions. These are used worldwide in various industrial and non-industrial applications. We supply intelligent real-time and network-capable cameras that do not require an additional PC. These embedded solutions are flexibly integrated into all types of systems.",
+      "summary": "Company Website"
+    },
+    "date": "Jan 2020",
+    "roles": ["Website Designer", "Full-Stack Web Developer"],
+    "links": [
+      {
+        "type": "web",
+        "text": "Visit Site",
+        "link": "http://kelownawholesaleauto.com/"
+      }
+    ]
+  }
+]
