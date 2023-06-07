@@ -126,6 +126,8 @@ function section2IntroAnimations() {
 				<div 
 					class="flex-item" 
 					in:maskSlideIn={{ delay: 600 }}>
+					<img src="assets/imgs/svg-icons/react.svg" alt="react">
+					<img src="assets/imgs/svg-icons/vue.svg" alt="react">
 					<img src="assets/imgs/svg-icons/svelte.svg" alt="svelte">
 				</div>
 			</li>
@@ -156,7 +158,7 @@ function section2IntroAnimations() {
 				</div>
 				<div class="flex-item" 
 					in:maskSlideIn={{ delay: 900 }}>
-					<img src="assets/imgs/svg-icons/illustrator.svg" alt="adobe illustrator">
+					<img src="assets/imgs/svg-icons/figma.svg" alt="figma">
 					<img src="assets/imgs/svg-icons/xd.svg" alt="adobe xd">
 				</div>
 			</li>
