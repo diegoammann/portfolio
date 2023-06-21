@@ -92,7 +92,7 @@ function section2IntroAnimations() {
 		</h1>
 		<div bind:this={paragraph}>
 			<p class="paragraph">
-				I'm a Frontend Engineer from Switzherland. I specialize in animation and developing web experiences. I specialize in designing and developing web experiences<br><br>I work with organizations and individuals to create beautiful, responsive, and scalable web products tailor-made for them. Think we can make something great together? Let's talk over email.
+				I'm a Frontend Engineer from Switzerland. I specialize in animation and developing web experiences. I specialize in designing and developing web experiences<br><br>I work with organizations and individuals to create beautiful, responsive, and scalable web products tailor-made for them. Think we can make something great together? Let's talk over email.
 			</p>
 		</div>
 		<div class="social-button-wrapper">
